@@ -5,8 +5,6 @@
 
 This project aims to predict the emotional state of users based on their social media activity using machine learning techniques. By analyzing patterns in posts, comments, and interactions, the model can determine various emotional states such as happiness, sadness, anger, and more, providing valuable insights for mental health assessment and other applications.
 
-![Emotion Prediction](images/emotion_prediction.png)
-
 ## Features
 
 - Data collection and preprocessing
